@@ -4,7 +4,7 @@ Enable syntax highlighting for any language using fences inside any language com
 
 Use the markdown ``` code fences inside any of the supported language's block comment and get syntax highlighting for it
 
-## Supported Languages
+## Supported Languages (if your language isn't here, please submit an issue)
 
 * html
 * frontmatter

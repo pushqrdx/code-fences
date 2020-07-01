@@ -2,7 +2,7 @@
 	"name": "code-fences",
 	"displayName": "Code Fences",
 	"icon": "icon.png",
-	"description": "Inject any language in block comments with Code Fences",
+	"description": "Inject syntax highlighting for any language in block comments with Code Fences",
 	"version": "1.0.0",
 	"publisher": "pushqrdx",
 	"author": {
